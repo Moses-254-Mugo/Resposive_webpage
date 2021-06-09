@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f1f1f1;
+}
+/*Style navigation bar*/
+.navbar{
+    display: flex;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 14px 16px;
+    display: block;
+}
+/*Change on hover*/
+a:hover{
+    background-color: #ccc;
+    color: black;
+    font-size: 60px;
+}
+/*Style Header*/
+.header{
+    padding: 30px;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
