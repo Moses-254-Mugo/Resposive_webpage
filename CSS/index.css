@@ -20,11 +20,11 @@ a{
 a:hover{
     background-color: #ccc;
     color: black;
-    font-size: 60px;
+    font-size: 20px;
 }
 /*Style Header*/
 .header{
-    padding: 30px;
+    padding: 60px;
     background-color: green;
     text-align: center;
     color: white;
